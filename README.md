@@ -24,3 +24,9 @@ a basic hands-on coap project
 - Subset of MIME types and HTTP response codes
 - Built-in discovery
 - Optional observation and block transfer 
+
+## References
+- [The Constrained Application Protocol (CoAP) - PROPOSED STANDARD](http://tools.ietf.org/html/rfc7252)
+- [Observing Resources in CoAP - Internet Draft](https://tools.ietf.org/html/draft-ietf-core-observe-08)
+- [ARM IoT Tutorial](http://goo.gl/4vvpsK)
+- [Hands-on with CoAP](http://goo.gl/LLQ03w)
